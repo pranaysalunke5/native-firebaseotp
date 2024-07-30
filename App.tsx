@@ -131,10 +131,11 @@ import React, { useState, useEffect } from 'react';
 import { View, Button, TextInput, Text, Alert, StyleSheet } from 'react-native';
 import auth from '@react-native-firebase/auth';
 
+
 const App = () => {
   const [confirm, setConfirm] = useState(null);
   const [code, setCode] = useState('');
-  const [phoneNumber, setPhoneNumber] = useState('+919325795236'); // Default phone number for testing
+  const [phoneNumber, setPhoneNumber] = useState('+919766773313'); // Default phone number for testing
 
   useEffect(() => {
     const subscriber = auth().onAuthStateChanged(onAuthStateChanged);
