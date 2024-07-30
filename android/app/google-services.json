@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543969174950",
+    "project_id": "otp-verification-3817c",
+    "storage_bucket": "otp-verification-3817c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543969174950:android:73a0829d055ca01e84db67",
+        "android_client_info": {
+          "package_name": "com.firebaseotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlwI9lI-YgD8Wd7ThhY8EKSwFRVrmyz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
